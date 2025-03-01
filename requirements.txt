@@ -14,8 +14,8 @@ cachetools==5.5.0
 certifi==2024.8.30
 cfgv==3.4.0
 charset-normalizer==3.3.2
-chroma-hnswlib
-chromadb
+chroma-hnswlib==0.7.6
+chromadb==0.5.7
 click==8.1.7
 coloredlogs==15.0.1
 dataclasses-json==0.6.7
@@ -115,7 +115,6 @@ smmap==5.0.1
 sniffio==1.3.1
 snowballstemmer==2.2.0
 SQLAlchemy==2.0.35
-sqlite3
 starlette==0.38.5
 streamlit==1.38.0
 streamlit-chat==0.1.1
